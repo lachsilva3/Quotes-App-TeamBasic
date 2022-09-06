@@ -1,0 +1,47 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+ .header{
+    color:lime;
+    height:100px;
+    line-height:80px;
+     background-color: black;
+     box-shadow: 1px 1px 2px gray;
+     font-weight: bolder;
+     width:100%;
+     margin:0px auto;
+}
+table{
+    margin: 20px 20px;
+    border-collapse: separate;  
+     border-spacing: 0 15px;  
+ 
+   
+}
+ td{
+    border: 1px red solid;
+    color: blue;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+span{
+    background-color: grey;
+    text-align: right;
+    color:white;
+    border-radius: 1rem;
+ padding: 5px 5px; 
+    float:right;
+    font-size: small;
+}
+.btn-primary{
+    color: black;
+    background-color: orange;
+}
+
+.search{
+    border:2px solid red ;
+    padding: 5px 12px;
+    border-radius: 1rem;
+}
